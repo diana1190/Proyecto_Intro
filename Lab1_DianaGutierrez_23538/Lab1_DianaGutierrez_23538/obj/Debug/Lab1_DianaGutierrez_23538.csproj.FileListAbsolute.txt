@@ -1,0 +1,6 @@
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\bin\Debug\Lab1_DianaGutierrez_23538.exe.config
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\bin\Debug\Lab1_DianaGutierrez_23538.exe
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\bin\Debug\Lab1_DianaGutierrez_23538.pdb
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\obj\Debug\Lab1_DianaGutierrez_23538.csprojResolveAssemblyReference.cache
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\obj\Debug\Lab1_DianaGutierrez_23538.exe
+C:\Users\30122028\Desktop\Lab1_DianaGutierrez_23538\Lab1_DianaGutierrez_23538\obj\Debug\Lab1_DianaGutierrez_23538.pdb
